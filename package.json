@@ -1,0 +1,24 @@
+{
+  "name": "assignment_nodejs_mongodb",
+  "version": "1.0.0",
+  "description": "assignment ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanisha0528/Assignment_NodeJS_MongoDB.git"
+  },
+  "author": "tanisha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tanisha0528/Assignment_NodeJS_MongoDB/issues"
+  },
+  "homepage": "https://github.com/Tanisha0528/Assignment_NodeJS_MongoDB#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
